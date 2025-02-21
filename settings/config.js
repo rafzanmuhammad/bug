@@ -1,8 +1,8 @@
 const fs = require('fs')
 //~~~~~~~~~SETTING BOT~~~~~~~~~~//
-global.owner = "263785335562"
-global.name = "Prexzy"
-global.ch = 'https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s'
+global.owner = "60128081120"
+global.name = "dhany"
+global.ch = 'https://whatsapp.com/channel'
 global.status = true
 
 global.mess = {
@@ -11,10 +11,10 @@ global.mess = {
     private: "this is specifically for private chat"
 }
 
-global.packname = 'PREXZY-BUG-V4'
-global.author = 'Precious Ayomide'
+global.packname = 'P'
+global.author = 'P'
 
-global.pairing = "PREXZY"
+global.pairing = "HAIKAL"
 
 let file = require.resolve(__filename)
 require('fs').watchFile(file, () => {
